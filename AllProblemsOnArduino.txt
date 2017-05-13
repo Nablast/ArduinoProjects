@@ -1,0 +1,3 @@
+- Pas envie de téléverser ?
+     -> Vérifier le type de carte + Porm COMM
+     -> Vérifier que le pin 0 (RX) n'est pas branché ...
